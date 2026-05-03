@@ -32,6 +32,7 @@ cv:
 
       - institution: University of Utrecht
         location: Utrecht, Netherlands
+        url: https://www.uu.nl/
         area: European Studies
         studyType: M.Sc.
         start_date: 2023
@@ -75,5 +76,5 @@ cv:
     Projects:
       - name: DataFest
         summary: Partook in Data-Hackathon organized by the LMU Munich, analyzing a large N dataset 
-        start_date: 2023
-        end_date: 2023
+        start_date: 2023-04-14
+        end_date: 2023-04-16
