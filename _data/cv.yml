@@ -4,17 +4,9 @@ cv:
   email: simon.duris@uni-konstanz.de
   location: Konstanz, Germany
   image: ""
-  summary: ""
   social_networks:
     - network: LinkedIn
       username: simonduris
-
-  address:
-    street: 
-    city: 
-    region: 
-    postalCode: 
-    countryCode: 
 
   sections:
     Education:
@@ -25,9 +17,6 @@ cv:
         studyType: M.A. 
         start_date: 2023
         end_date: 2026
-        score: ""
-        courses: ""
-        highlights: ""
           
 
       - institution: University of Utrecht
@@ -37,7 +26,6 @@ cv:
         studyType: M.Sc.
         start_date: 2023
         end_date: 2025
-        highlights: ""
 
     Experience:
       - company: European Commission
@@ -46,7 +34,6 @@ cv:
         start_date: 2025
         end_date: 2026
         summary: Commission Priorities and Strategic Coordination for DG Competition
-        highlights: ""
 
       - company: Capgemini Invent
         position: Intern
@@ -54,7 +41,6 @@ cv:
         start_date: 2025
         end_date: 2025
         summary: Work on Digital Transformation projects for clients in the public sector
-        highlights: ""
 
       - company: Mannheimer Zentrum für Europäische Sozialforschung
         position: Student Research Assistant
@@ -64,7 +50,7 @@ cv:
 
     Skills:
       - name: Causal Inference, R, Stata
-        level: Advanced
+        level: "Advanced"
 
     Languages:
       - name: German
