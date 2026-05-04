@@ -1,9 +1,7 @@
 cv:
   name: Simon G. Duris
-  label: Student
   email: simon.duris@uni-konstanz.de
   location: Konstanz, Germany
-  image: ""
   social_networks:
     - network: LinkedIn
       username: simonduris
