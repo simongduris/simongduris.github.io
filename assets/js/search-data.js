@@ -45,17 +45,6 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2026/vietnam/";
-          
-        },
-      },{id: "post-vienna-april-2026",
-        
-          title: "Vienna April 2026",
-        
-        description: "Travel report for a short trip to Vienna in April 2026",
-        section: "Posts",
-        handler: () => {
-          
             window.location.href = "/blog/2026/vienna/";
           
         },
