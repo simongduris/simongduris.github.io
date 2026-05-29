@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-vienna-april-2026",
+        },{id: "post-vietnam-amp-kambodscha-mai-juni-2026",
+        
+          title: "Vietnam &amp; Kambodscha Mai / Juni 2026",
+        
+        description: "Reisebericht 5 Wochen in Vietnam (und ein kurzer Abstecher nach Kambodscha)",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/vietnam/";
+          
+        },
+      },{id: "post-vienna-april-2026",
         
           title: "Vienna April 2026",
         
