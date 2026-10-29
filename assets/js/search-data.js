@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-vietnam-amp-kambodscha-mai-juni-2026",
+        },{id: "post-summer-2026",
+        
+          title: "Summer 2026",
+        
+        description: "Southeast by Train",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/summer26/";
+          
+        },
+      },{id: "post-vietnam-amp-kambodscha-mai-juni-2026",
         
           title: "Vietnam &amp; Kambodscha Mai / Juni 2026",
         
